@@ -2,7 +2,9 @@
 title: "Map using leaflet: Developing Data Products Programming Assignment 2(R Markdown and Leaflet)"
 author: "Sifang Zhao"
 date: "June 10 2020"
-output: html_document
+output:
+    html_document:
+        keep_md: true
 ---
 
 # Date : June 10 2020.
